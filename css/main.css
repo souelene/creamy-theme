@@ -1,0 +1,73 @@
+*{
+	font-family: "Merriweather";
+}
+/*aqui parte el nav*/
+.nav li{
+	display:inline-block;
+}
+.f-rojo{
+	background:#da2c38; 
+}
+.nav a{
+	color:#f4f0bb; 
+}
+.nav li a:hover{
+	background:rgba(0,0,0,0.3);
+}
+.navbar-default .navbar-brand{
+	color:#f4f0bb; 
+}
+
+.navbar-default .navbar-brand:hover{
+	color:#f4f0bb;
+}
+
+/*aqui parte la primera section*/
+.fondo-2{
+	background-image: url(../img/creamy.jpg);
+	background-size:100%;
+	background-position:center; 
+}
+.fondo-3{
+	background-color: rgba(0,0,0,0.7);
+}
+
+.titulo{
+	text-align:center;
+	padding:150px 0;
+	color:#f4f0bb;
+}
+/*aqui termina la segunda section*/
+.f-crema{
+	background-color: #f4f0bb;
+}
+
+.box-1{
+	padding: 50px 20px;
+	color:#da2c38;
+}
+
+.f-crema img{
+	width:100%;
+}
+/*aqui parte la tercera section*/
+.box-2{
+	padding: 50px 0px;
+	color:#f4f0bb;
+}
+/*aqui parte la cuarta section*/
+.box-3{
+	color:#da2c38;
+	padding: 50px 20px;
+}
+.box-3 i{
+font-size:100px;	
+}
+/*aqui parte el footer*/
+
+.box-4{
+	color:#f4f0bb;
+	padding-top:20px;
+}
+
+

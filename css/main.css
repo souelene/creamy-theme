@@ -11,7 +11,8 @@
 .nav a{
 	color:#f4f0bb; 
 }
-.nav li a:hover{
+.nav li a:hover,
+.nav li a:focus{
 	background:rgba(0,0,0,0.3);
 }
 .navbar-default .navbar-brand{
